@@ -1,0 +1,18 @@
+.output {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 20px;
+}
+.btn {
+    text-align: center;
+    position: relative; /* Use relative positioning */
+}
+
+.btn button {
+    display: block;
+    margin: 0 auto; /* Center horizontally */
+}
+body{
+    background-color: brown;
+}
+
